@@ -19,6 +19,13 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "icon": "./assets/icon.png",
+      "package": "com.fabio24.mdztech",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDjWgFvL_Ttc_R6RSfS8HCalEL4MTLZSaU"
+        }
       }
     },
     "web": {
