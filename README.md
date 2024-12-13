@@ -49,8 +49,8 @@ Desarrollada con React Native y Expo, cuenta con funciones como registro e inici
 Se muestra el funcionamiento de la aplicación: 
 ### Pantallas de inicio
 
-![Inicio](../capturas/Login.png)
-![Registro](../capturas/SignUp.png)
+![Inicio](./capturas/Login.png)
+![Registro](./capturas/SignUp.png)
 ### Aplicación
 
 ![Categorias](./capturas/categorias.png)
