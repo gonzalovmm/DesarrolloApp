@@ -29,8 +29,8 @@ Desarrollada con React Native y Expo, cuenta con funciones como registro e inici
 1. Clona el repositorio:
 
     ```bash
-    git clone 
-    cd 
+    git clone https://github.com/gonzalovmm/DesarrolloApp
+    cd DesarrolloApp
     ```
 
 2. Instala las dependencias:
